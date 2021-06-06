@@ -1,16 +1,16 @@
 const person = {
-    name: 'Kevin',
-    age: 32,
+    name: 'jan',
+    age: 30,
     evaluations: [7, 10, 9],
 };
 
 /*
 
 // Dot Notation
-person.name = 'kevin';
+person.name = 'jan';
 
 // Bracker Notation
-person['name'] = 'kevin';
+person['name'] = 'jan';
 
 */
 
