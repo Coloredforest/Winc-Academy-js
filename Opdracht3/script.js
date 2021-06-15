@@ -29,5 +29,3 @@ if (driverStatus = "bob"){
     console.log("Jij mag niet rijden")
 
 }
-
-// node script.js
